@@ -174,22 +174,22 @@ as used in the Two-Diode-Model (or e.g. the Shockley diode equation)
 <figure>
 <img src="figures/Mobilitaet-Temperatur_n-Typ.png" alt="N-Type Temperature Dependent Carrier Mobilities" width="480" height=300/>
 <img src="figures/Mobilitaet-Dotierung_n-Typ.png" alt="N-Type Doping Concentration Dependent Carrier Mobilities" width="480" height=300/>
-<figcaption>N-type silicon carrier mobilities (left) temperature dependent with doping concentration as parameter and (right) doping concentration dependent with temperature as parameter.</figcaption>
+<figcaption>N-type silicon carrier mobilities (top) temperature dependent with doping concentration as parameter and (bottom) doping concentration dependent with temperature as parameter.</figcaption>
 </figure>
 <figure>
 <img src="figures/Mobilitaet_e-T-D_As_n-Typ.png" alt="N-Type Temperature and As-Doping Concentration Dependent Electron Mobilities" width="480" height=300/>
 <img src="figures/Mobilitaet_h-T-D_As_n-Typ.png" alt="N-Type Temperature and As-Doping Concentration Dependent Hole Mobilities" width="480" height=300/>
-<figcaption>3D Graph of n-type silicon (left) temperature and As-doping dependent electron mobilities and (right) temperature and As-doping dependent hole mobilities.</figcaption>
+<figcaption>3D Graph of n-type silicon (top) temperature and As-doping dependent electron mobilities and (bottom) temperature and As-doping dependent hole mobilities.</figcaption>
 </figure>
 <figure>
 <img src="figures/Mobilitaet-Temperatur_p-Typ.png" alt="P-Type Temperature Dependent Carrier Mobilities" width="480" height=300/>
 <img src="figures/Mobilitaet-Dotierung_p-Typ.png" alt="P-Type Doping Concentration Dependent Carrier Mobilities" width="480" height=300/>
-<figcaption>P-type silicon carrier mobilities (left) temperature dependent with doping concentration as parameter and (right) doping concentration dependent with temperature as parameter.</figcaption>
+<figcaption>P-type silicon carrier mobilities (top) temperature dependent with doping concentration as parameter and (bottom) doping concentration dependent with temperature as parameter.</figcaption>
 </figure>
 <figure>
 <img src="figures/Mobilitaet_e-T-D_B_p-Typ.png" alt="P-Type Temperature and B-Doping Concentration Dependent Electron Mobilities" width="480" height=300/>
 <img src="figures/Mobilitaet_h-T-D_B_p-Typ.png" alt="P-Type Temperature and B-Doping Concentration Dependent Hole Mobilities" width="480" height=300/>
-<figcaption>3D Graph of p-type silicon (left) temperature and B-doping dependent electron mobilities and (right) temperature and B-doping dependent hole mobilities.</figcaption>
+<figcaption>3D Graph of p-type silicon (top) temperature and B-doping dependent electron mobilities and (bottom) temperature and B-doping dependent hole mobilities.</figcaption>
 </figure>
 <br/>
 
@@ -245,7 +245,7 @@ of Silicon solar cells after defining which of the above parameters are to set a
 <figure>
 <img src="figures/JU-Kennlinien.png" alt="J(U) Characteristic" width="480" height=300/>
 <img src="figures/JU-Kennlinien_log.png" alt="J(U) Characteristic Logarithmic" width="480" height=300/>
-<figcaption>J(U) characteristic of different parameter combinations in (left) linear and (right) semi-logarothmic representation.</figcaption>
+<figcaption>J(U) characteristic of different parameter combinations in (top) linear and (bottom) semi-logarothmic representation.</figcaption>
 </figure>
 <br/><br/>
 
