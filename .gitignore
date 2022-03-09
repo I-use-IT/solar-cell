@@ -1,3 +1,15 @@
+# Eclipse and PyDev
+*.settings
+*.project
+*.pydevproject
+
+# Modules
+*_v[0123456789]*.*
+*_plot*.*
+
+# In-/Output
+output
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
