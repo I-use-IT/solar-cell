@@ -176,22 +176,25 @@ as used in the Two-Diode-Model (or e.g. the Shockley diode equation)
 <img src="figures/Mobilitaet-Dotierung_n-Typ.png" alt="N-Type Doping Concentration Dependent Carrier Mobilities" width="480" height=300/>
 <figcaption>N-type silicon carrier mobilities (top) temperature dependent with doping concentration as parameter and (bottom) doping concentration dependent with temperature as parameter.</figcaption>
 </figure>
+<br/>
 <figure>
 <img src="figures/Mobilitaet_e-T-D_As_n-Typ.png" alt="N-Type Temperature and As-Doping Concentration Dependent Electron Mobilities" width="480" height=300/>
 <img src="figures/Mobilitaet_h-T-D_As_n-Typ.png" alt="N-Type Temperature and As-Doping Concentration Dependent Hole Mobilities" width="480" height=300/>
 <figcaption>3D Graph of n-type silicon (top) temperature and As-doping dependent electron mobilities and (bottom) temperature and As-doping dependent hole mobilities.</figcaption>
 </figure>
+<br/>
 <figure>
 <img src="figures/Mobilitaet-Temperatur_p-Typ.png" alt="P-Type Temperature Dependent Carrier Mobilities" width="480" height=300/>
 <img src="figures/Mobilitaet-Dotierung_p-Typ.png" alt="P-Type Doping Concentration Dependent Carrier Mobilities" width="480" height=300/>
 <figcaption>P-type silicon carrier mobilities (top) temperature dependent with doping concentration as parameter and (bottom) doping concentration dependent with temperature as parameter.</figcaption>
 </figure>
+<br/>
 <figure>
 <img src="figures/Mobilitaet_e-T-D_B_p-Typ.png" alt="P-Type Temperature and B-Doping Concentration Dependent Electron Mobilities" width="480" height=300/>
 <img src="figures/Mobilitaet_h-T-D_B_p-Typ.png" alt="P-Type Temperature and B-Doping Concentration Dependent Hole Mobilities" width="480" height=300/>
 <figcaption>3D Graph of p-type silicon (top) temperature and B-doping dependent electron mobilities and (bottom) temperature and B-doping dependent hole mobilities.</figcaption>
 </figure>
-<br/>
+<br/><br/>
 
 
 
