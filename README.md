@@ -102,7 +102,7 @@ as used in the Two-Diode-Model (or e.g. the Shockley diode equation)
 
 <figure>
 <img src="figures/Energiebandluecke.png" alt="Bandgap" width="480" height=300/>
-<img src="figures/Energiebandluecke_Legende.png" alt="Bandgap Legend" width="480" height=300/>
+<img src="figures/Energiebandluecke_Legende.png" alt="Bandgap Legend" width="200" height=165/>
 </figure>
 <br/>
 
@@ -159,7 +159,7 @@ as used in the Two-Diode-Model (or e.g. the Shockley diode equation)
 
 <figure>
 <img src="figures/Ladungstraegerkonzentration.png" alt="Intrinsic Carrier Concentrations" width="480" height=300/>
-<img src="figures/Ladungstraegerkonzentration_Legende.png" alt="Intrinsic Carrier Concentrations Legend" width="480" height=300/>
+<img src="figures/Ladungstraegerkonzentration_Legende.png" alt="Intrinsic Carrier Concentrations Legend" width="200" height=195/>
 </figure>
 <br/>
 
