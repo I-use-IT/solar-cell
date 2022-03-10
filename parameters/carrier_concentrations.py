@@ -11,7 +11,7 @@ Requires:   constants.py
 from constants import q_e, k_B_J, k_B
 import bandgap as bg
 import math as m
-from scipy import exp, log
+from numpy import exp, log
 #==============================================================================
 
 class MisiakosTsamakis:
