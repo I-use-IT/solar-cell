@@ -311,7 +311,7 @@ You should be able to run the modules with Python 3.x seamlessly and >2.6 after 
 
 ## Citing
 
-I appreciate your use of the "Solar Cell Simulation Framework", and ask that you appropriately cite the software in exchange for its open-source publication:
+I appreciate your use of the "Solar Cell Simulation Framework" and ask that you appropriately cite the software in exchange for its open-source publication:
 <br/>
 
 > Tobias Ried, "Solar Cell Simulation Framework", GitHub Repository: https://github.com/I-use-IT/Solar_Cell, 2022
@@ -319,7 +319,7 @@ I appreciate your use of the "Solar Cell Simulation Framework", and ask that you
 
 BibTeX:
 
-<details>
+<details open="open">
 
 ```bibtex
 @misc{Ried2022solarcell,
@@ -331,7 +331,7 @@ BibTeX:
 }
 ```
 </details>
-<br/><br/><br/>
+<br/><br/>
 
 
 
