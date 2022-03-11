@@ -21,6 +21,7 @@
     <li><a href="#conventions">Conventions</a></li>
     <li><a href="#future">Future</a></li>
     <li><a href="#software-versions">Software Versions</a></li>
+    <li><a href="#citing">Citing</a></li>
     <li><a href="#license">License</a></li>
   </ul>
 </details>
@@ -304,6 +305,32 @@ The ones at 5°C were used to least square fit the initial (or fit) values which
 - Matplotlib 3.5.1
 
 You should be able to run the modules with Python 3.x seamlessly and >2.6 after minor adjustments.
+<br/><br/><br/>
+
+
+
+## Citing
+
+I appreciate your use of the "Solar Cell Simulation Framework", and ask that you appropriately cite the software in exchange for its open-source publication:
+<br/>
+
+> Tobias Ried, "Solar Cell Simulation Framework", GitHub Repository: https://github.com/I-use-IT/Solar_Cell, 2022
+<br/>
+
+BibTeX:
+
+<details>
+
+```bibtex
+@misc{Ried2022solarcell,
+    title           = {{Solar Cell Simulation Framework}},
+    author          = {Ried, Tobias},
+    year            = {2022},
+    howpublished    = {GitHub Repository: \url{https://github.com/I-use-IT/Solar_Cell}},
+    note            = {[Retrieved YYYY-MM-DD]}
+}
+```
+</details>
 <br/><br/><br/>
 
 
