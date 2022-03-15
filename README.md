@@ -36,7 +36,7 @@ In this repository you'll find Python modules for <!-- a fully-fledged --> the c
 - Power-voltage characteristics P(U)
 - Specific solar cell characteristics U<sub>oc</sub>, J<sub>sc</sub>, U<sub>MPP</sub>, J<sub>MPP</sub>, S<sub>MPP</sub>, FF, η
 
-All papers used during the code creation are referenced here and in the sources (exception: triviality).
+All papers used during the code creation are referenced here and in the sources. <!-- (exception: triviality). -->
 <br/><br/><br/>
 
 
