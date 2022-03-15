@@ -290,6 +290,7 @@ The ones at 5°C were used to least square fit the initial (or fit) values which
 
   Some of these are already implemented. Maybe I will update this repository if I find the time and especially the muse to do so.
   <li>The provided graphs were made with Matplotlib in combination with LaTeX to render text and axes labels. This will be the topic of another repository.</li>
+  <li>Provide the fitting module used to calculate the initial fit parameters with and for the two-diode-model.</li>
   <li>Perhaps I'll provide other example plot modules (if requested) to make your life easier.</li>
   <li>Feel free to contribute in any way.</li>
 </ul>
