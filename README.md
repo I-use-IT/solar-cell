@@ -327,7 +327,7 @@ BibTeX:
     title           = {{Solar Cell Simulation Framework}},
     author          = {Ried, Tobias},
     year            = {2022},
-    howpublished    = {GitHub Repository: \url{https://github.com/I-use-IT/Solar_Cell}},
+    howpublished    = {GitHub Repository: \url{https://github.com/I-use-IT/solar-cell}},
     note            = {[Retrieved YYYY-MM-DD]}
 }
 ```
